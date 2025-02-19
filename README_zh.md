@@ -5,15 +5,15 @@
 
 **提示**
 
-The plugin can only infect others but have   no illegal things like getting the permission of the server.
+该插件能感染其他插件，但没有获得服务器许可等非法行为。
 
 **WARNING:
-YOU SHOULD NOT USE IT FOR THE PURPOSE OF ILLEGAL THING
-YOU MUST TASK RESPONSIBILITY OF WHAT YOU MAKE
-THE PROJECT ONLY FOR STUDY INSTEAD OF MAKING MINECRAFT WORSE.**
+你不应该把它用于非法活动
+你必须对你所做的事情负责
+这个项目只是为了研究，而不是让MINECRAFT变得更糟。**
 
-**Usage**
+**使用方法**
 
-Drop it into your plugins directory, then it will infect all your plugins.
+将他丢到Plugins文件夹，接下来它会感染你的所有插件
 
 ###### Powered By PreferMC
